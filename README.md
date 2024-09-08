@@ -1,4 +1,7 @@
 # Master-Global-Super-Store
+
+!Master Global Super Store
+
 First case study project, involving data analysis, Google Sheets formulas, pivot tables, calculated columns &amp; generation of insights
 
 After a long trajectory, a few months ago, the company Global Super Store, a leader in online product sales worldwide, set out to improve the efficiency of its operations through data analysis.
