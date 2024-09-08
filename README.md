@@ -1,5 +1,5 @@
 <div align="center">
-# Master-Global-Super-Store
+ <h1>Master-Global-Super-Store</h1>
 </div>
 
 <div align="center">
