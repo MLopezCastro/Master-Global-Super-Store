@@ -1,4 +1,6 @@
+<div align="center">
 # Master-Global-Super-Store
+</div>
 
 <div align="center">
   <img src="https://github.com/MLopezCastro/Master-Global-Super-Store/blob/main/logo.png?raw=true" alt="Master Global Super Store Logo" width="400">
