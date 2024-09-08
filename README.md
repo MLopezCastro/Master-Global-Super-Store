@@ -1,5 +1,8 @@
 # Master-Global-Super-Store
 
+<div align="center">
+  <img src="https://github.com/MLopezCastro/Master-Global-Super-Store/blob/main/logo.png?raw=true" alt="Master Global Super Store Logo" width="200">
+</div>
 
 First case study project, involving data analysis, Google Sheets formulas, pivot tables, calculated columns &amp; generation of insights
 
